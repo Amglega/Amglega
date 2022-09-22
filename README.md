@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Robotics course**
 
-- 👯 I’m looking to collaborate on **Anyone in the robotics field**
+- 👯 I’m looking to collaborate on **Anyone in the robotics community**
 
 <h3 align="left">Social networks:</h3>
 <p align="left">
