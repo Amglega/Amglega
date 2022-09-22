@@ -12,8 +12,7 @@
 <h3 align="left">Social networks:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alejandro-moncalvillo-882251251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/alejandro-moncalvillo-882251251" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucgkr-y5fxalhdrjh6rxc-5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucgkr-y5fxalhdrjh6rxc-5g" height="30" width="40" /></a>
-https://amgrobtmov.blogspot.com/
+<a href="https://www.youtube.com/channel/UCgkR-Y5FxAlhdrjH6rxC-5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCgkR-Y5FxAlhdrjH6rxC-5g" height="30" width="40" /></a>
 <a href="https://amgrobtmov.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="https://www.youtube.com/channel/ucgkr-y5fxalhdrjh6rxc-5g" height="30" width="40" /></a>
 </p>
 
