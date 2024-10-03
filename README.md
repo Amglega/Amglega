@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amglega" alt="amglega" /></a> </p>
 
-- 🌱 I’m currently learning **Software Robotics course**
+- 🌱 I’m currently learning **Artificial Intelligence & Robotics**
 
 - 👯 I’m looking to collaborate on **Any project in the robotics field**
 
